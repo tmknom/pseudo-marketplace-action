@@ -1,15 +1,13 @@
-name: Rename me
+name: Pseudo Marketplace Action
 description: |
-  Template repository for creating Composite Action with GitHub Actions.
+  N/A
 
   ## Usage
 
-  Write usage for your Composite Action.
-
   ```yaml
     steps:
-      - name: Template
-        uses: tmknom/template-composite-action@v0
+      - name: Pseudo Marketplace
+        uses: tmknom/pseudo-marketplace-action@v0
   ```
 
 runs:
