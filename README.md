@@ -1,21 +1,19 @@
-# template-composite-action
+# pseudo-marketplace-action
 
-Template repository for Composite Action.
+This is a pseudo action.
 
 <!-- actdocs start -->
 
 ## Description
 
-Template repository for creating Composite Action with GitHub Actions.
+N/A
 
 ## Usage
 
-Write usage for your Composite Action.
-
 ```yaml
   steps:
-    - name: Template
-      uses: tmknom/template-composite-action@v0
+    - name: Pseudo Marketplace
+      uses: tmknom/pseudo-marketplace-action@v0
 ```
 
 ## Inputs
@@ -48,4 +46,4 @@ See [GitHub Releases][releases].
 
 Apache 2 Licensed. See [LICENSE](LICENSE) for full details.
 
-[releases]: https://github.com/tmknom/template-composite-action/releases
+[releases]: https://github.com/tmknom/pseudo-marketplace-action/releases
